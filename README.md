@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KielBlondell
 - 👀 I’m interested in software development, engineering in geoscience and energy engineering
-- 🌱 I’m currently learning Python, React, Matlab
+- 🌱 I’m currently learning Python, React, Matlab, Node.js, TypeScript, FireBase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on LinkkedIn 
 
